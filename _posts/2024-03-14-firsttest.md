@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "테스팅 1차"
+title: "테스팅 1차"
 ---
 
 
